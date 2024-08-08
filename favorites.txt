@@ -1,3 +1,6 @@
 spaghetti
 carbonara
 chicken
+avengers
+hobbit
+horror
